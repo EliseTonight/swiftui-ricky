@@ -1,0 +1,23 @@
+{
+  "name": "swiftui-ricky",
+  "version": "1.0.2",
+  "description": "swiftui-ricky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliseTonight/swiftui-ricky.git"
+  },
+  "dependencies": {
+    "mathjs": "*",
+    "date-fns": "*",
+    "crypto-js": "*",
+    "lodash": "*",
+    "xwz-web3-001":"*"
+  }
+}
